@@ -1,0 +1,2090 @@
+[
+    {
+        "countryId": 1,
+        "countryCode": "AFG",
+        "countryName": "Afghanistan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/af.png",
+        "telCode": "93"
+    },
+    {
+        "countryId": 2,
+        "countryCode": "AIA",
+        "countryName": "Anguilla",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/ai.png",
+        "telCode": "264"
+    },
+    {
+        "countryId": 3,
+        "countryCode": "ALB",
+        "countryName": "Albania",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/al.png",
+        "telCode": "355"
+    },
+    {
+        "countryId": 4,
+        "countryCode": "ALG",
+        "countryName": "Algeria",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/dz.png",
+        "telCode": "213"
+    },
+    {
+        "countryId": 5,
+        "countryCode": "AND",
+        "countryName": "Andorra",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/ad.png",
+        "telCode": "376"
+    },
+    {
+        "countryId": 6,
+        "countryCode": "ANG",
+        "countryName": "Angola",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/ao.png",
+        "telCode": "244"
+    },
+    {
+        "countryId": 7,
+        "countryCode": "ANT",
+        "countryName": "Antigua and Barbuda",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/ag.png",
+        "telCode": "268"
+    },
+    {
+        "countryId": 8,
+        "countryCode": "ARG",
+        "countryName": "Argentina",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/ar.png",
+        "telCode": "54"
+    },
+    {
+        "countryId": 9,
+        "countryCode": "ARM",
+        "countryName": "Armenia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/am.png",
+        "telCode": "374"
+    },
+    {
+        "countryId": 10,
+        "countryCode": "ARU",
+        "countryName": "Aruba",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/aw.png",
+        "telCode": "297"
+    },
+    {
+        "countryId": 11,
+        "countryCode": "ASA",
+        "countryName": "American Samoa",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/as.png",
+        "telCode": "684"
+    },
+    {
+        "countryId": 12,
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "continentId": "19",
+        "isActive": "True",
+        "flag": "flags_normal/au.png",
+        "telCode": "61"
+    },
+    {
+        "countryId": 13,
+        "countryCode": "AUT",
+        "countryName": "Austria",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/at.png",
+        "telCode": "43"
+    },
+    {
+        "countryId": 14,
+        "countryCode": "AZE",
+        "countryName": "Azerbaijan",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/az.png",
+        "telCode": "994"
+    },
+    {
+        "countryId": 15,
+        "countryCode": "BAH",
+        "countryName": "Bahamas",
+        "continentId": "18",
+        "isActive": "True",
+        "flag": "flags_normal/bs.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 16,
+        "countryCode": "BAN",
+        "countryName": "Bangladesh",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/bd.png",
+        "telCode": "880"
+    },
+    {
+        "countryId": 17,
+        "countryCode": "BAR",
+        "countryName": "Barbados",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/bb.png",
+        "telCode": "246"
+    },
+    {
+        "countryId": 18,
+        "countryCode": "BDI",
+        "countryName": "Burundi",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/bi.png",
+        "telCode": "257"
+    },
+    {
+        "countryId": 19,
+        "countryCode": "BEL",
+        "countryName": "Belgium",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/be.png",
+        "telCode": "32"
+    },
+    {
+        "countryId": 20,
+        "countryCode": "BEN",
+        "countryName": "Benin",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/bj.png",
+        "telCode": "229"
+    },
+    {
+        "countryId": 21,
+        "countryCode": "BER",
+        "countryName": "Bermuda",
+        "continentId": "18",
+        "isActive": "True",
+        "flag": "flags_normal/bm.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 22,
+        "countryCode": "BES",
+        "countryName": "Bonaire",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/bon.png",
+        "telCode": "599"
+    },
+    {
+        "countryId": 23,
+        "countryCode": "BHU",
+        "countryName": "Bhutan",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/bt.png",
+        "telCode": "975"
+    },
+    {
+        "countryId": 24,
+        "countryCode": "BIH",
+        "countryName": "Bosnia-Herzegovina",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/ba.png",
+        "telCode": "387"
+    },
+    {
+        "countryId": 25,
+        "countryCode": "BIZ",
+        "countryName": "Belize",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/bz.png",
+        "telCode": "501"
+    },
+    {
+        "countryId": 26,
+        "countryCode": "BLR",
+        "countryName": "Belarus",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/by.png",
+        "telCode": "375"
+    },
+    {
+        "countryId": 27,
+        "countryCode": "BOL",
+        "countryName": "Bolivia",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/bo.png",
+        "telCode": "591"
+    },
+    {
+        "countryId": 28,
+        "countryCode": "BOT",
+        "countryName": "Botswana",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/bw.png",
+        "telCode": "267"
+    },
+    {
+        "countryId": 29,
+        "countryCode": "BRA",
+        "countryName": "Brazil",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/br.png",
+        "telCode": "55"
+    },
+    {
+        "countryId": 30,
+        "countryCode": "BRN",
+        "countryName": "Bahrain",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/bh.png",
+        "telCode": "973"
+    },
+    {
+        "countryId": 31,
+        "countryCode": "BRU",
+        "countryName": "Brunei",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/bn.png",
+        "telCode": "673"
+    },
+    {
+        "countryId": 32,
+        "countryCode": "BUL",
+        "countryName": "Bulgaria",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/bg.png",
+        "telCode": "359"
+    },
+    {
+        "countryId": 33,
+        "countryCode": "BUR",
+        "countryName": "Burkina Faso",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/bf.png",
+        "telCode": "226"
+    },
+    {
+        "countryId": 34,
+        "countryCode": "CAF",
+        "countryName": "Central Africa",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/cf.png",
+        "telCode": "236"
+    },
+    {
+        "countryId": 35,
+        "countryCode": "CAM",
+        "countryName": "Cambodia",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/kh.png",
+        "telCode": "855"
+    },
+    {
+        "countryId": 36,
+        "countryCode": "CAN",
+        "countryName": "Canada",
+        "continentId": "18",
+        "isActive": "True",
+        "flag": "flags_normal/ca.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 37,
+        "countryCode": "CAY",
+        "countryName": "Cayman Islands",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/cay.png",
+        "telCode": "345"
+    },
+    {
+        "countryId": 38,
+        "countryCode": "CGO",
+        "countryName": "Congo Brazzaville",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/cg.png",
+        "telCode": "242"
+    },
+    {
+        "countryId": 39,
+        "countryCode": "CHA",
+        "countryName": "Chad",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/td.png",
+        "telCode": "235"
+    },
+    {
+        "countryId": 40,
+        "countryCode": "CHI",
+        "countryName": "Chile",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/cl.png",
+        "telCode": "56"
+    },
+    {
+        "countryId": 41,
+        "countryCode": "CHN",
+        "countryName": "China",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/cn.png",
+        "telCode": "86"
+    },
+    {
+        "countryId": 42,
+        "countryCode": "CIV",
+        "countryName": "Cote d'Ivoire",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/ci.png",
+        "telCode": "225"
+    },
+    {
+        "countryId": 43,
+        "countryCode": "CMR",
+        "countryName": "Cameroon",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/cm.png",
+        "telCode": "237"
+    },
+    {
+        "countryId": 44,
+        "countryCode": "COD",
+        "countryName": "Congo Democratic",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/cd.png",
+        "telCode": "243"
+    },
+    {
+        "countryId": 45,
+        "countryCode": "COK",
+        "countryName": "Cook Islands",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/ck.png",
+        "telCode": "682"
+    },
+    {
+        "countryId": 46,
+        "countryCode": "COL",
+        "countryName": "Colombia",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/co.png",
+        "telCode": "57"
+    },
+    {
+        "countryId": 47,
+        "countryCode": "COM",
+        "countryName": "Comoros",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/km.png",
+        "telCode": "269"
+    },
+    {
+        "countryId": 48,
+        "countryCode": "CPV",
+        "countryName": "Cape Verde",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/cv.png",
+        "telCode": "238"
+    },
+    {
+        "countryId": 49,
+        "countryCode": "CRC",
+        "countryName": "Costa Rica",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/cr.png",
+        "telCode": "506"
+    },
+    {
+        "countryId": 50,
+        "countryCode": "CRO",
+        "countryName": "Croatia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/hr.png",
+        "telCode": "385"
+    },
+    {
+        "countryId": 51,
+        "countryCode": "CUB",
+        "countryName": "Cuba",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/cu.png",
+        "telCode": "53"
+    },
+    {
+        "countryId": 52,
+        "countryCode": "CUW",
+        "countryName": "Curacao",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/cuw.png",
+        "telCode": "599"
+    },
+    {
+        "countryId": 53,
+        "countryCode": "CYP",
+        "countryName": "Cyprus",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/cy.png",
+        "telCode": "357"
+    },
+    {
+        "countryId": 54,
+        "countryCode": "CZE",
+        "countryName": "Czechia",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/cz.png",
+        "telCode": "420"
+    },
+    {
+        "countryId": 55,
+        "countryCode": "DEN",
+        "countryName": "Denmark",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/dk.png",
+        "telCode": "45"
+    },
+    {
+        "countryId": 56,
+        "countryCode": "DJI",
+        "countryName": "Djibouti",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/dj.png",
+        "telCode": "253"
+    },
+    {
+        "countryId": 57,
+        "countryCode": "DMA",
+        "countryName": "Dominica W.I.",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/dm.png",
+        "telCode": "767"
+    },
+    {
+        "countryId": 58,
+        "countryCode": "DOM",
+        "countryName": "Dominican Republic",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/do.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 59,
+        "countryCode": "ECU",
+        "countryName": "Ecuador",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/ec.png",
+        "telCode": "593"
+    },
+    {
+        "countryId": 60,
+        "countryCode": "EGY",
+        "countryName": "Egypt",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/eg.png",
+        "telCode": "20"
+    },
+    {
+        "countryId": 61,
+        "countryCode": "ENG",
+        "countryName": "England",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/England.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 62,
+        "countryCode": "ERI",
+        "countryName": "Eritrea",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/er.png",
+        "telCode": "291"
+    },
+    {
+        "countryId": 63,
+        "countryCode": "ESA",
+        "countryName": "El Salvador",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/sv.png",
+        "telCode": "503"
+    },
+    {
+        "countryId": 64,
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/es.png",
+        "telCode": "34"
+    },
+    {
+        "countryId": 65,
+        "countryCode": "EST",
+        "countryName": "Estonia",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/ee.png",
+        "telCode": "372"
+    },
+    {
+        "countryId": 66,
+        "countryCode": "ETH",
+        "countryName": "Ethiopia",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/et.png",
+        "telCode": "251"
+    },
+    {
+        "countryId": 67,
+        "countryCode": "FIJ",
+        "countryName": "Fiji",
+        "continentId": "20",
+        "isActive": "True",
+        "flag": "flags_normal/fj.png",
+        "telCode": "679"
+    },
+    {
+        "countryId": 68,
+        "countryCode": "FIN",
+        "countryName": "Finland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/fi.png",
+        "telCode": "358"
+    },
+    {
+        "countryId": 69,
+        "countryCode": "FRA",
+        "countryName": "France",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/fr.png",
+        "telCode": "33"
+    },
+    {
+        "countryId": 70,
+        "countryCode": "FRO",
+        "countryName": "Faroe Islands",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/fro.png",
+        "telCode": "298"
+    },
+    {
+        "countryId": 71,
+        "countryCode": "FSM",
+        "countryName": "Micronesia",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/fm.png",
+        "telCode": "691"
+    },
+    {
+        "countryId": 72,
+        "countryCode": "GAB",
+        "countryName": "Gabon",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/ga.png",
+        "telCode": "241"
+    },
+    {
+        "countryId": 73,
+        "countryCode": "GAM",
+        "countryName": "Gambia",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/gm.png",
+        "telCode": "220"
+    },
+    {
+        "countryId": 74,
+        "countryCode": "GBS",
+        "countryName": "Guinea-Bissau",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/gw.png",
+        "telCode": "245"
+    },
+    {
+        "countryId": 75,
+        "countryCode": "GEO",
+        "countryName": "Georgia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/ge.png",
+        "telCode": "995"
+    },
+    {
+        "countryId": 76,
+        "countryCode": "GEQ",
+        "countryName": "Equatorial Guinea",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/gq.png",
+        "telCode": "240"
+    },
+    {
+        "countryId": 77,
+        "countryCode": "GER",
+        "countryName": "Germany",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/de.png",
+        "telCode": "49"
+    },
+    {
+        "countryId": 78,
+        "countryCode": "GGY",
+        "countryName": "Guernsey",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/ggy.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 79,
+        "countryCode": "GHA",
+        "countryName": "Ghana",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/gh.png",
+        "telCode": "233"
+    },
+    {
+        "countryId": 80,
+        "countryCode": "GIB",
+        "countryName": "Gibraltar",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/gib.png",
+        "telCode": "350"
+    },
+    {
+        "countryId": 81,
+        "countryCode": "GRE",
+        "countryName": "Greece",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/gr.png",
+        "telCode": "30"
+    },
+    {
+        "countryId": 82,
+        "countryCode": "GRL",
+        "countryName": "Greenland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/grl.png",
+        "telCode": "299"
+    },
+    {
+        "countryId": 83,
+        "countryCode": "GRN",
+        "countryName": "Grenada",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/gd.png",
+        "telCode": "473"
+    },
+    {
+        "countryId": 84,
+        "countryCode": "GUA",
+        "countryName": "Guatemala",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/gt.png",
+        "telCode": "502"
+    },
+    {
+        "countryId": 85,
+        "countryCode": "GUI",
+        "countryName": "Guinea",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/gn.png",
+        "telCode": "224"
+    },
+    {
+        "countryId": 86,
+        "countryCode": "GUM",
+        "countryName": "Guam",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/gum.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 87,
+        "countryCode": "GUY",
+        "countryName": "Guyana",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/gy.png",
+        "telCode": "592"
+    },
+    {
+        "countryId": 88,
+        "countryCode": "HAI",
+        "countryName": "Haiti",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/ht.png",
+        "telCode": "509"
+    },
+    {
+        "countryId": 89,
+        "countryCode": "HKG",
+        "countryName": "Hong Kong, China",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/hkg.png",
+        "telCode": "852"
+    },
+    {
+        "countryId": 90,
+        "countryCode": "HON",
+        "countryName": "Honduras",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/hn.png",
+        "telCode": "504"
+    },
+    {
+        "countryId": 91,
+        "countryCode": "HUN",
+        "countryName": "Hungary",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/hu.png",
+        "telCode": "36"
+    },
+    {
+        "countryId": 92,
+        "countryCode": "IMN",
+        "countryName": "Isle Of Man",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/imn.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 93,
+        "countryCode": "INA",
+        "countryName": "Indonesia",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/id.png",
+        "telCode": "62"
+    },
+    {
+        "countryId": 94,
+        "countryCode": "IND",
+        "countryName": "India",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/in.png",
+        "telCode": "91"
+    },
+    {
+        "countryId": 95,
+        "countryCode": "IRL",
+        "countryName": "Ireland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/ie.png",
+        "telCode": "353"
+    },
+    {
+        "countryId": 96,
+        "countryCode": "IRI",
+        "countryName": "Iran",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/ir.png",
+        "telCode": "98"
+    },
+    {
+        "countryId": 97,
+        "countryCode": "IRQ",
+        "countryName": "Iraq",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/iq.png",
+        "telCode": "964"
+    },
+    {
+        "countryId": 98,
+        "countryCode": "ISL",
+        "countryName": "Iceland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/is.png",
+        "telCode": "354"
+    },
+    {
+        "countryId": 99,
+        "countryCode": "ISR",
+        "countryName": "Israel",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/il.png",
+        "telCode": "972"
+    },
+    {
+        "countryId": 100,
+        "countryCode": "ISV",
+        "countryName": "Us Virgin Islands",
+        "continentId": "18",
+        "isActive": "True",
+        "flag": "flags_normal/isv.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 101,
+        "countryCode": "ITA",
+        "countryName": "Italy",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/it.png",
+        "telCode": "39"
+    },
+    {
+        "countryId": 102,
+        "countryCode": "IVB",
+        "countryName": "British Virgin Islands",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/ivb.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 103,
+        "countryCode": "JAM",
+        "countryName": "Jamaica",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/jm.png",
+        "telCode": "876"
+    },
+    {
+        "countryId": 104,
+        "countryCode": "JEY",
+        "countryName": "Jersey",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/jey.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 105,
+        "countryCode": "JOR",
+        "countryName": "Jordan",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/jo2.png",
+        "telCode": "962"
+    },
+    {
+        "countryId": 106,
+        "countryCode": "JPN",
+        "countryName": "Japan",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/jp.png",
+        "telCode": "81"
+    },
+    {
+        "countryId": 107,
+        "countryCode": "KAZ",
+        "countryName": "Kazakhstan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/kz.png",
+        "telCode": "7"
+    },
+    {
+        "countryId": 108,
+        "countryCode": "KEN",
+        "countryName": "Kenya",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/ke.png",
+        "telCode": "254"
+    },
+    {
+        "countryId": 109,
+        "countryCode": "KGZ",
+        "countryName": "Kyrgyzstan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/kg.png",
+        "telCode": "996"
+    },
+    {
+        "countryId": 110,
+        "countryCode": "KIR",
+        "countryName": "Kiribati",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/ki.png",
+        "telCode": "686"
+    },
+    {
+        "countryId": 111,
+        "countryCode": "KOR",
+        "countryName": "Korea Republic",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/kr.png",
+        "telCode": "82"
+    },
+    {
+        "countryId": 112,
+        "countryCode": "KOS",
+        "countryName": "Kosovo",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/kos.png",
+        "telCode": "383"
+    },
+    {
+        "countryId": 113,
+        "countryCode": "KSA",
+        "countryName": "Saudi Arabia",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/sa.png",
+        "telCode": "966"
+    },
+    {
+        "countryId": 114,
+        "countryCode": "KUW",
+        "countryName": "Kuwait",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/kw.png",
+        "telCode": "965"
+    },
+    {
+        "countryId": 115,
+        "countryCode": "LAO",
+        "countryName": "Laos",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/la.png",
+        "telCode": "856"
+    },
+    {
+        "countryId": 116,
+        "countryCode": "LAT",
+        "countryName": "Latvia",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/lv.png",
+        "telCode": "371"
+    },
+    {
+        "countryId": 117,
+        "countryCode": "LBA",
+        "countryName": "Libya",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/ly.png",
+        "telCode": "218"
+    },
+    {
+        "countryId": 118,
+        "countryCode": "LBN",
+        "countryName": "Lebanon",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/lb.png",
+        "telCode": "961"
+    },
+    {
+        "countryId": 119,
+        "countryCode": "LBR",
+        "countryName": "Liberia",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/lr.png",
+        "telCode": "231"
+    },
+    {
+        "countryId": 120,
+        "countryCode": "LCA",
+        "countryName": "St. Lucia",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/lc.png",
+        "telCode": "758"
+    },
+    {
+        "countryId": 121,
+        "countryCode": "LES",
+        "countryName": "Lesotho",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/ls.png",
+        "telCode": "266"
+    },
+    {
+        "countryId": 122,
+        "countryCode": "LIE",
+        "countryName": "Liechtenstein",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/li.png",
+        "telCode": "423"
+    },
+    {
+        "countryId": 123,
+        "countryCode": "LTU",
+        "countryName": "Lithuania",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/lt.png",
+        "telCode": "370"
+    },
+    {
+        "countryId": 124,
+        "countryCode": "LUX",
+        "countryName": "Luxembourg",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/lu.png",
+        "telCode": "352"
+    },
+    {
+        "countryId": 125,
+        "countryCode": "MAC",
+        "countryName": "Macao, China",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/mac.png",
+        "telCode": "853"
+    },
+    {
+        "countryId": 126,
+        "countryCode": "MAD",
+        "countryName": "Madagascar",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/mg.png",
+        "telCode": "261"
+    },
+    {
+        "countryId": 127,
+        "countryCode": "MAF",
+        "countryName": "St. Maarten",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/maf.png",
+        "telCode": "599"
+    },
+    {
+        "countryId": 128,
+        "countryCode": "MAR",
+        "countryName": "Morocco",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/ma.png",
+        "telCode": "212"
+    },
+    {
+        "countryId": 129,
+        "countryCode": "MAS",
+        "countryName": "Malaysia",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/my.png",
+        "telCode": "60"
+    },
+    {
+        "countryId": 130,
+        "countryCode": "MAW",
+        "countryName": "Malawi",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/mw.png",
+        "telCode": "265"
+    },
+    {
+        "countryId": 131,
+        "countryCode": "MDA",
+        "countryName": "Moldova",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/md.png",
+        "telCode": "373"
+    },
+    {
+        "countryId": 132,
+        "countryCode": "MDV",
+        "countryName": "Maldives",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/mv.png",
+        "telCode": "960"
+    },
+    {
+        "countryId": 133,
+        "countryCode": "MEX",
+        "countryName": "Mexico",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/mx.png",
+        "telCode": "52"
+    },
+    {
+        "countryId": 134,
+        "countryCode": "MGL",
+        "countryName": "Mongolia",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/Mongolia.png",
+        "telCode": "976"
+    },
+    {
+        "countryId": 135,
+        "countryCode": "MHL",
+        "countryName": "Marshall Islands",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/mh.png",
+        "telCode": "692"
+    },
+    {
+        "countryId": 136,
+        "countryCode": "MKD",
+        "countryName": "North Macedonia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/mk.png",
+        "telCode": "389"
+    },
+    {
+        "countryId": 137,
+        "countryCode": "MLI",
+        "countryName": "Mali",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/ml.png",
+        "telCode": "223"
+    },
+    {
+        "countryId": 138,
+        "countryCode": "MLT",
+        "countryName": "Malta",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/mt.png",
+        "telCode": "356"
+    },
+    {
+        "countryId": 139,
+        "countryCode": "MNE",
+        "countryName": "Montenegro",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/me.png",
+        "telCode": "382"
+    },
+    {
+        "countryId": 140,
+        "countryCode": "MNP",
+        "countryName": "Northern Mariana Islands",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/mnp.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 141,
+        "countryCode": "MON",
+        "countryName": "Monaco",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/Monaco.png",
+        "telCode": "377"
+    },
+    {
+        "countryId": 142,
+        "countryCode": "MOZ",
+        "countryName": "Mozambique",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/mz.png",
+        "telCode": "258"
+    },
+    {
+        "countryId": 143,
+        "countryCode": "MRI",
+        "countryName": "Mauritius",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/mu.png",
+        "telCode": "230"
+    },
+    {
+        "countryId": 144,
+        "countryCode": "MTN",
+        "countryName": "Mauritania",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/MAURITANIA.jpg",
+        "telCode": "222"
+    },
+    {
+        "countryId": 145,
+        "countryCode": "MYA",
+        "countryName": "Myanmar",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/Myanmar.png",
+        "telCode": "95"
+    },
+    {
+        "countryId": 146,
+        "countryCode": "NAM",
+        "countryName": "Namibia",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/na.png",
+        "telCode": "264"
+    },
+    {
+        "countryId": 147,
+        "countryCode": "NCA",
+        "countryName": "Nicaragua",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/ni.png",
+        "telCode": "505"
+    },
+    {
+        "countryId": 148,
+        "countryCode": "NCL",
+        "countryName": "New Caledonia",
+        "continentId": "20",
+        "isActive": "True",
+        "flag": "flags_normal/ncl.png",
+        "telCode": "687"
+    },
+    {
+        "countryId": 149,
+        "countryCode": "NED",
+        "countryName": "Netherlands",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/nl.png",
+        "telCode": "31"
+    },
+    {
+        "countryId": 150,
+        "countryCode": "NEP",
+        "countryName": "Nepal",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/np.png",
+        "telCode": "977"
+    },
+    {
+        "countryId": 151,
+        "countryCode": "NFK",
+        "countryName": "Norfolk Island",
+        "continentId": "19",
+        "isActive": "True",
+        "flag": "flags_normal/nfk.png",
+        "telCode": "672"
+    },
+    {
+        "countryId": 152,
+        "countryCode": "NGR",
+        "countryName": "Nigeria",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/ng.png",
+        "telCode": "234"
+    },
+    {
+        "countryId": 153,
+        "countryCode": "NIG",
+        "countryName": "Niger",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/ne.png",
+        "telCode": "227"
+    },
+    {
+        "countryId": 154,
+        "countryCode": "NIU",
+        "countryName": "Niue",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/nu.png",
+        "telCode": "683"
+    },
+    {
+        "countryId": 155,
+        "countryCode": "NOR",
+        "countryName": "Norway",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/no.png",
+        "telCode": "47"
+    },
+    {
+        "countryId": 156,
+        "countryCode": "NRU",
+        "countryName": "Nauru",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/nr.png",
+        "telCode": "674"
+    },
+    {
+        "countryId": 157,
+        "countryCode": "NZL",
+        "countryName": "New Zealand",
+        "continentId": "19",
+        "isActive": "True",
+        "flag": "flags_normal/nz.png",
+        "telCode": "64"
+    },
+    {
+        "countryId": 158,
+        "countryCode": "OMA",
+        "countryName": "Oman",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/om.png",
+        "telCode": "968"
+    },
+    {
+        "countryId": 159,
+        "countryCode": "PAK",
+        "countryName": "Pakistan",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/pk.png",
+        "telCode": "92"
+    },
+    {
+        "countryId": 160,
+        "countryCode": "PAN",
+        "countryName": "Panama",
+        "continentId": "16",
+        "isActive": "True",
+        "flag": "flags_normal/pa.png",
+        "telCode": "507"
+    },
+    {
+        "countryId": 161,
+        "countryCode": "PAR",
+        "countryName": "Paraguay",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/py.png",
+        "telCode": "595"
+    },
+    {
+        "countryId": 162,
+        "countryCode": "PER",
+        "countryName": "Peru",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/pe.png",
+        "telCode": "51"
+    },
+    {
+        "countryId": 163,
+        "countryCode": "PHI",
+        "countryName": "Philippines",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/ph.png",
+        "telCode": "63"
+    },
+    {
+        "countryId": 164,
+        "countryCode": "PLE",
+        "countryName": "Palestine",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/ps.png",
+        "telCode": "970"
+    },
+    {
+        "countryId": 165,
+        "countryCode": "PLW",
+        "countryName": "Palau",
+        "continentId": "21",
+        "isActive": "True",
+        "flag": "flags_normal/pw.png",
+        "telCode": "680"
+    },
+    {
+        "countryId": 166,
+        "countryCode": "PNG",
+        "countryName": "Papua New Guinea",
+        "continentId": "20",
+        "isActive": "True",
+        "flag": "flags_normal/pg.png",
+        "telCode": "675"
+    },
+    {
+        "countryId": 167,
+        "countryCode": "POL",
+        "countryName": "Poland",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/pl.png",
+        "telCode": "48"
+    },
+    {
+        "countryId": 168,
+        "countryCode": "POR",
+        "countryName": "Portugal",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/pt.png",
+        "telCode": "351"
+    },
+    {
+        "countryId": 169,
+        "countryCode": "PRK",
+        "countryName": "Korea DPR",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/kp.png",
+        "telCode": "850"
+    },
+    {
+        "countryId": 170,
+        "countryCode": "PUR",
+        "countryName": "Puerto Rico",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/pur.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 171,
+        "countryCode": "PYF",
+        "countryName": "Tahiti",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/pyf.png",
+        "telCode": "689"
+    },
+    {
+        "countryId": 172,
+        "countryCode": "QAT",
+        "countryName": "Qatar",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/qa.png",
+        "telCode": "974"
+    },
+    {
+        "countryId": 173,
+        "countryCode": "ROU",
+        "countryName": "Romania",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/ro.png",
+        "telCode": "40"
+    },
+    {
+        "countryId": 174,
+        "countryCode": "RSA",
+        "countryName": "South Africa",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/za.png",
+        "telCode": "27"
+    },
+    {
+        "countryId": 175,
+        "countryCode": "RUS",
+        "countryName": "Russia",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/ru.png",
+        "telCode": "7"
+    },
+    {
+        "countryId": 176,
+        "countryCode": "RWA",
+        "countryName": "Rwanda",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/rw.png",
+        "telCode": "250"
+    },
+    {
+        "countryId": 177,
+        "countryCode": "SAM",
+        "countryName": "Samoa",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/ws.png",
+        "telCode": "685"
+    },
+    {
+        "countryId": 178,
+        "countryCode": "SCO",
+        "countryName": "Scotland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/Scotland.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 179,
+        "countryCode": "SEN",
+        "countryName": "Senegal",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/sn.png",
+        "telCode": "221"
+    },
+    {
+        "countryId": 180,
+        "countryCode": "SEY",
+        "countryName": "Seychelles",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/sc.png",
+        "telCode": "248"
+    },
+    {
+        "countryId": 181,
+        "countryCode": "SGP",
+        "countryName": "Singapore",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/sg.png",
+        "telCode": "65"
+    },
+    {
+        "countryId": 182,
+        "countryCode": "SKN",
+        "countryName": "Saint Kitts and Nevis",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/kn.png",
+        "telCode": "869"
+    },
+    {
+        "countryId": 183,
+        "countryCode": "SLE",
+        "countryName": "Sierra Leone",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/sl.png",
+        "telCode": "232"
+    },
+    {
+        "countryId": 184,
+        "countryCode": "SLO",
+        "countryName": "Slovenia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/si.png",
+        "telCode": "386"
+    },
+    {
+        "countryId": 185,
+        "countryCode": "SMR",
+        "countryName": "San Marino",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/sm.png",
+        "telCode": "378"
+    },
+    {
+        "countryId": 186,
+        "countryCode": "SOL",
+        "countryName": "Solomon Islands",
+        "continentId": "20",
+        "isActive": "True",
+        "flag": "flags_normal/sb.png",
+        "telCode": "677"
+    },
+    {
+        "countryId": 187,
+        "countryCode": "SOM",
+        "countryName": "Somalia",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/so.png",
+        "telCode": "252"
+    },
+    {
+        "countryId": 188,
+        "countryCode": "SRB",
+        "countryName": "Serbia",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/rs.png",
+        "telCode": "381"
+    },
+    {
+        "countryId": 189,
+        "countryCode": "SRI",
+        "countryName": "Sri Lanka",
+        "continentId": "8",
+        "isActive": "True",
+        "flag": "flags_normal/lk.png",
+        "telCode": "94"
+    },
+    {
+        "countryId": 190,
+        "countryCode": "SSD",
+        "countryName": "South Sudan",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/ss.png",
+        "telCode": "211"
+    },
+    {
+        "countryId": 191,
+        "countryCode": "STP",
+        "countryName": "Sao Tome and Principe",
+        "continentId": "1",
+        "isActive": "True",
+        "flag": "flags_normal/st.png",
+        "telCode": "239"
+    },
+    {
+        "countryId": 192,
+        "countryCode": "SUD",
+        "countryName": "Sudan",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/sd.png",
+        "telCode": "249"
+    },
+    {
+        "countryId": 193,
+        "countryCode": "SUI",
+        "countryName": "Switzerland",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/ch.png",
+        "telCode": "41"
+    },
+    {
+        "countryId": 194,
+        "countryCode": "SUR",
+        "countryName": "Suriname",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/sr.png",
+        "telCode": "597"
+    },
+    {
+        "countryId": 195,
+        "countryCode": "SVK",
+        "countryName": "Slovak Republic",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/sk.png",
+        "telCode": "421"
+    },
+    {
+        "countryId": 196,
+        "countryCode": "SWE",
+        "countryName": "Sweden",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/se.png",
+        "telCode": "46"
+    },
+    {
+        "countryId": 197,
+        "countryCode": "SWZ",
+        "countryName": "Eswatini",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/sz.png",
+        "telCode": "268"
+    },
+    {
+        "countryId": 198,
+        "countryCode": "SYR",
+        "countryName": "Syria",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/sy.png",
+        "telCode": "963"
+    },
+    {
+        "countryId": 199,
+        "countryCode": "TAN",
+        "countryName": "Tanzania",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/tz.png",
+        "telCode": "255"
+    },
+    {
+        "countryId": 200,
+        "countryCode": "TGA",
+        "countryName": "Tonga",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/to.png",
+        "telCode": "676"
+    },
+    {
+        "countryId": 201,
+        "countryCode": "THA",
+        "countryName": "Thailand",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/th.png",
+        "telCode": "66"
+    },
+    {
+        "countryId": 202,
+        "countryCode": "TJK",
+        "countryName": "Tajikistan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/tj.png",
+        "telCode": "992"
+    },
+    {
+        "countryId": 203,
+        "countryCode": "TKM",
+        "countryName": "Turkmenistan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/Turkmenistan.png",
+        "telCode": "993"
+    },
+    {
+        "countryId": 204,
+        "countryCode": "TLS",
+        "countryName": "East Timor",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/East Timor.png",
+        "telCode": "670"
+    },
+    {
+        "countryId": 205,
+        "countryCode": "TOG",
+        "countryName": "Togo",
+        "continentId": "5",
+        "isActive": "True",
+        "flag": "flags_normal/togo.jpg",
+        "telCode": "228"
+    },
+    {
+        "countryId": 206,
+        "countryCode": "TKL",
+        "countryName": "Tokelau",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/Tokelau.png",
+        "telCode": "690"
+    },
+    {
+        "countryId": 207,
+        "countryCode": "TPE",
+        "countryName": "Chinese Taipei",
+        "continentId": "6",
+        "isActive": "True",
+        "flag": "flags_normal/tw.png",
+        "telCode": "886"
+    },
+    {
+        "countryId": 208,
+        "countryCode": "TTO",
+        "countryName": "Trinidad and Tobago",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/tt.png",
+        "telCode": "868"
+    },
+    {
+        "countryId": 209,
+        "countryCode": "TUN",
+        "countryName": "Tunisia",
+        "continentId": "3",
+        "isActive": "True",
+        "flag": "flags_normal/tn.png",
+        "telCode": "216"
+    },
+    {
+        "countryId": 210,
+        "countryCode": "TUR",
+        "countryName": "Türkiye",
+        "continentId": "13",
+        "isActive": "True",
+        "flag": "flags_normal/tr.png",
+        "telCode": "90"
+    },
+    {
+        "countryId": 211,
+        "countryCode": "TUV",
+        "countryName": "Tuvalu",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/tv.png",
+        "telCode": "688"
+    },
+    {
+        "countryId": 212,
+        "countryCode": "UAE",
+        "countryName": "United Arab Emirates",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/ae.png",
+        "telCode": "971"
+    },
+    {
+        "countryId": 213,
+        "countryCode": "UGA",
+        "countryName": "Uganda",
+        "continentId": "2",
+        "isActive": "True",
+        "flag": "flags_normal/ug.png",
+        "telCode": "256"
+    },
+    {
+        "countryId": 214,
+        "countryCode": "UKR",
+        "countryName": "Ukraine",
+        "continentId": "11",
+        "isActive": "True",
+        "flag": "flags_normal/ua.png",
+        "telCode": "380"
+    },
+    {
+        "countryId": 215,
+        "countryCode": "URU",
+        "countryName": "Uruguay",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/uy.png",
+        "telCode": "598"
+    },
+    {
+        "countryId": 216,
+        "countryCode": "USA",
+        "countryName": "USA",
+        "continentId": "18",
+        "isActive": "True",
+        "flag": "flags_normal/us.png",
+        "telCode": "1"
+    },
+    {
+        "countryId": 217,
+        "countryCode": "UZB",
+        "countryName": "Uzbekistan",
+        "continentId": "7",
+        "isActive": "True",
+        "flag": "flags_normal/uz.png",
+        "telCode": "998"
+    },
+    {
+        "countryId": 218,
+        "countryCode": "VAN",
+        "countryName": "Vanuatu",
+        "continentId": "20",
+        "isActive": "True",
+        "flag": "flags_normal/vu.png",
+        "telCode": "678"
+    },
+    {
+        "countryId": 219,
+        "countryCode": "VEN",
+        "countryName": "Venezuela",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/ve.png",
+        "telCode": "58"
+    },
+    {
+        "countryId": 220,
+        "countryCode": "VIE",
+        "countryName": "Vietnam",
+        "continentId": "9",
+        "isActive": "True",
+        "flag": "flags_normal/vn.png",
+        "telCode": "84"
+    },
+    {
+        "countryId": 221,
+        "countryCode": "VIN",
+        "countryName": "St. Vincent",
+        "continentId": "15",
+        "isActive": "True",
+        "flag": "flags_normal/vc.png",
+        "telCode": "784"
+    },
+    {
+        "countryId": 222,
+        "countryCode": "WAL",
+        "countryName": "Wales",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/Wales.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 223,
+        "countryCode": "WLF",
+        "countryName": "Wallis and Futuna",
+        "continentId": "22",
+        "isActive": "True",
+        "flag": "flags_normal/wlf.png",
+        "telCode": "681"
+    },
+    {
+        "countryId": 224,
+        "countryCode": "YEM",
+        "countryName": "Yemen",
+        "continentId": "10",
+        "isActive": "True",
+        "flag": "flags_normal/ye.png",
+        "telCode": "967"
+    },
+    {
+        "countryId": 225,
+        "countryCode": "ZAM",
+        "countryName": "Zambia",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/zm.png",
+        "telCode": "260"
+    },
+    {
+        "countryId": 226,
+        "countryCode": "ZIM",
+        "countryName": "Zimbabwe",
+        "continentId": "4",
+        "isActive": "True",
+        "flag": "flags_normal/zw.png",
+        "telCode": "263"
+    },
+    {
+        "countryId": 228,
+        "countryCode": "AHO",
+        "countryName": "Netherlands Antilles",
+        "continentId": "14",
+        "isActive": "True",
+        "flag": "flags_normal/nl.png",
+        "telCode": null
+    },
+    {
+        "countryId": 229,
+        "countryCode": "NIR",
+        "countryName": "Northern Ireland",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/gb.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 230,
+        "countryCode": "GBR",
+        "countryName": "United Kingdom",
+        "continentId": "12",
+        "isActive": "True",
+        "flag": "flags_normal/gb.png",
+        "telCode": "44"
+    },
+    {
+        "countryId": 235,
+        "countryCode": "FLK",
+        "countryName": "Falkland Islands",
+        "continentId": "17",
+        "isActive": "True",
+        "flag": "flags_normal/flk.png",
+        "telCode": "500"
+    },
+    {
+        "countryId": 236,
+        "countryCode": "RTT",
+        "countryName": "The Table Tennis Federation of Russia",
+        "continentId": "11",
+        "isActive": "False",
+        "flag": "flags_normal/rtt_new_logo.png",
+        "telCode": "7"
+    },
+    {
+        "countryId": 237,
+        "countryCode": "BTT",
+        "countryName": "Belarus Table Tennis Federation",
+        "continentId": "11",
+        "isActive": "False",
+        "flag": "flags_normal/bel_new_logo.png",
+        "telCode": "7"
+    }
+]
